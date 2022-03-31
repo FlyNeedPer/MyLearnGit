@@ -1,0 +1,2 @@
+hello world!txt
+hello my first pratice for git push and add remote!!
